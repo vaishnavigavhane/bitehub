@@ -1,0 +1,254 @@
+[
+    {
+      "resID" : 1,
+      "name": "Urban Tadka",
+      "image": "https://images.unsplash.com/photo-1555992336-cbf9cc6b4c2d?w=800",
+      "cuisine": "North Indian • Chinese",
+      "rating": "4.5",
+      "deliveryTime": "30 min",
+      "desc": "Traditional Indian flavors with a modern twist — every bite hits home.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.2",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.1",
+            "img": "/images/shake.jpg"
+          },
+          {
+            "name": "French Fries",
+            "price": "$3.99",
+             "rating": "3.9",
+            "img": "/images/fries.jpg"
+          },
+          {
+            "name": "Veggie Delight",
+            "price": "$9.49",
+             "rating": "4.1",
+            "img": "/images/veggie.jpg"
+          },
+          {
+            "name": "Ice Cream Sundae",
+            "price": "$5.49",
+             "rating": "3.5",
+            "img": "/images/icecream.jpg"
+          }
+      ]
+    },
+    {
+      "resID" : 2,
+      "name": "Burger Street",
+      "image":"https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "cuisine": "Fast Food • Beverages",
+      "rating": "4.2",
+      "deliveryTime": "20 min",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ],
+      "desc": "Loaded, cheesy, and delicious — burgers that redefine indulgence."
+    },
+    {
+      "resID" : 3,
+      "name": "Biryani Junction",
+      "image":
+        "https://images.unsplash.com/photo-1600628422019-90a7e086ee0c?w=800",
+      "cuisine": "Hyderabadi • Mughlai",
+      "rating": "4.3",
+      "deliveryTime": "25 min",
+      "desc": "Authentic dum biryani made with fragrant basmati and royal spices.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ]
+    },
+    {
+      "resID" : 4,
+      "name": "The Pasta Factory",
+      "image":
+        "https://images.unsplash.com/photo-1601924928585-7aa1d9f84f3b?w=800",
+      "cuisine": "Italian • Continental",
+      "rating": "4.7",
+      "deliveryTime": "35 min",
+      "desc": "A place where creamy pastas and fresh herbs create edible art.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ]
+    },
+    {
+      "resID" : 5,
+      "name": "Sushi Bay",
+      "image": "https://images.unsplash.com/photo-1562158070-622a3a7c64b0?w=800",
+      "cuisine": "Japanese • Seafood",
+      "rating": "4.8",
+      "deliveryTime": "40 min",
+      "desc": "Experience authentic Japanese sushi crafted with ocean-fresh fish.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ]
+    },
+    {
+      "resID" : 6,
+      "name": "Maharashtra Special",
+      "image": "https://media.istockphoto.com/id/1305516603/photo/shahi-paneer-or-paneer-kadai.jpg?s=612x612&w=0&k=20&c=V5xD4I1ciIjtyoH0FzuNeFnAl7oV9RJAoNs52X6pgE4=",
+      "cuisine": "Fast Food • Beverages",
+      "rating": "4.2",
+      "deliveryTime": "20 min",
+      "desc": "Loaded, cheesy, and delicious — burgers that redefine indulgence.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ]
+    },
+    {
+      "resID" : 7,
+      "name": "The Dessert Lab",
+      "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=800",
+      "cuisine": "Desserts • Ice Creams",
+      "rating": "4.9",
+      "deliveryTime": "22 min",
+      "desc": "Whipped sweetness and frozen dreams — made fresh daily.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ]
+    },
+     {
+      "resID" : 8,
+      "name": "Urban Tadka",
+      "image":"https://images.unsplash.com/photo-1555992336-cbf9cc6b4c2d?w=800",
+      "cuisine": "North Indian • Chinese",
+      "rating": "4.5",
+      "deliveryTime": "30 min",
+      "desc": "Traditional Indian flavors with a modern twist — every bite hits home.",
+      "menu" : [
+         {
+            "name": "Cheese Burger",
+            "price": "$8.99",
+             "rating": "4.5",
+            "img": "/images/burger.jpg"
+          },
+          {
+            "name": "Pepperoni Pizza",
+            "price": "$12.99",
+             "rating": "4.5",
+            "img": "/images/pizza.jpg"
+          },
+          {
+            "name": "Chocolate Shake",
+            "price": "$4.99",
+             "rating": "4.5",
+            "img": "/images/shake.jpg"
+          }
+        ]
+    }
+]
