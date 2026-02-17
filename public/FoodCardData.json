@@ -1,0 +1,32 @@
+[
+        {
+    "name": "Margherita Pizza",
+    "price": "₹299",
+    "rating": 4.7,
+    "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.5f4ef870fb437d0f7e82360758641f2b.1.jpg"
+    },
+    {
+    "name": "Classic Burger",
+    "price": "₹249",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=600"
+    },
+    {
+    "name": "Pasta",
+    "price": "₹279",
+    "rating": 4.8,
+    "image": "https://www.budgetbytes.com/wp-content/uploads/2020/05/CreamyTomatoSpinachPasta_OverheadPlated.jpg"
+  },
+  {
+    "name": "Fries",
+    "price": "₹149",
+    "rating": 4.6,
+    "image": "https://oceans7.in/wp-content/uploads/2021/11/80.jpg"
+  },
+  {
+    "name": "Dosa",
+    "price": "₹199",
+    "rating": 4.9,
+    "image": "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg"
+  }
+]
