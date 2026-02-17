@@ -10,37 +10,37 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹89",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Biryani",
-            "price": "₹12.99",
+            "price": "₹129",
              "rating": "4.2",
             "img": "/images/biryani.png"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹49",
              "rating": "4.1",
             "img": "/images/shake.jpg"
           },
           {
             "name": "French Fries",
-            "price": "₹3.99",
+            "price": "₹90",
              "rating": "3.9",
             "img": "/images/fries.jpg"
           },
           {
             "name": "Veggie Delight",
-            "price": "₹9.49",
+            "price": "₹99",
              "rating": "4.1",
             "img": "/images/veggie.jpg"
           },
           {
             "name": "Ice Cream Sundae",
-            "price": "₹5.49",
+            "price": "₹59",
              "rating": "3.5",
             "img": "/images/icecream.jpg"
           }
@@ -56,19 +56,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹89",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹129",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹49",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
@@ -87,19 +87,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹89",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹129",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹49",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
@@ -117,19 +117,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹89",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹129",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹49",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
@@ -146,19 +146,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹89",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹129",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹49",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
@@ -175,19 +175,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹80.99",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹120.99",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹40.99",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
@@ -204,19 +204,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹80.99",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹120.99",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹40.99",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
@@ -233,19 +233,19 @@
       "menu" : [
          {
             "name": "Cheese Burger",
-            "price": "₹8.99",
+            "price": "₹80.99",
              "rating": "4.5",
             "img": "/images/burger.jpg"
           },
           {
             "name": "Pepperoni Pizza",
-            "price": "₹12.99",
+            "price": "₹120.99",
              "rating": "4.5",
             "img": "/images/pizza.jpg"
           },
           {
             "name": "Chocolate Shake",
-            "price": "₹4.99",
+            "price": "₹40.99",
              "rating": "4.5",
             "img": "/images/shake.jpg"
           }
