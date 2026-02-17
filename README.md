@@ -1,7 +1,8 @@
 # 🍔 BiteHub — Online Food Delivery Platform
 
 BiteHub is a modern React.js food ordering web application where users can explore restaurants, browse menus by category, and view detailed restaurant dishes.
-The project simulates a real-world food delivery UI similar to Swiggy/Zomato and demonstrates routing, dynamic rendering, and API-based data handling.
+
+The project simulates a real-world food delivery UI similar to Swiggy/Zomato and demonstrates routing, dynamic rendering, API-based data handling, and React Hooks usage.
 
 🌐 **Live Demo:** https://vaishnavigavhane.github.io/bitehub/
 
@@ -9,13 +10,14 @@ The project simulates a real-world food delivery UI similar to Swiggy/Zomato and
 
 ## 🚀 Features
 
-* 🏠 Home page with featured restaurants
+* 🏠 Home page with restaurant listings
 * 🍕 Explore by category
 * 🧭 Dynamic routing using restaurant ID
-* 📄 Restaurant menu page with dishes listing
-* ⭐ Ratings and delivery time display
+* 📄 Restaurant menu page with dishes
+* ⭐ Ratings & delivery time display
 * 🔄 Data fetched from local API (JSON)
-* 📱 Responsive modern UI
+* ⚠️ Error handling using try–catch
+* 📱 Fully responsive UI
 * ⚡ Smooth animations using Framer Motion
 
 ---
@@ -27,17 +29,21 @@ The project simulates a real-world food delivery UI similar to Swiggy/Zomato and
 * React.js
 * React Router DOM
 * Vite
-* CSS / Tailwind
+* Tailwind CSS
 * Framer Motion
 
-**Concepts Used**
+---
 
-* Dynamic Routing (`useParams`)
-* Component Reusability
-* Conditional Rendering
-* Map Rendering Lists
-* API Fetch Handling
-* GitHub Pages Deployment (SPA routing)
+## 🧠 React Concepts Used
+
+* `useState` → Manage restaurants & menu state
+* `useEffect` → Fetch API data on component load
+* `useParams` → Dynamic routing with restaurant ID
+* Conditional Rendering → Loading state handling
+* Map Rendering → Dynamic UI generation
+* try–catch → API error handling
+* Component-based architecture
+* SPA Routing with Hash Router
 
 ---
 
@@ -84,7 +90,7 @@ npm run dev
 
 ## 🌍 Deployment
 
-The project is deployed using **GitHub Pages**.
+Deployed using GitHub Pages (SPA compatible)
 
 ```bash
 npm run deploy
@@ -96,8 +102,8 @@ npm run deploy
 
 * 🛒 Add to Cart functionality
 * 🔐 Authentication (Login/Register)
-* 💳 Checkout page
 * 🔍 Search & filters
+* 💳 Checkout page
 * 🌐 Backend integration (Node.js / Firebase)
 
 ---
@@ -109,6 +115,4 @@ Frontend Developer (React)
 
 ---
 
-## ⭐ If you like this project
-
-Give it a star on GitHub — it motivates me to build more!
+⭐ If you like this project, give it a star!
