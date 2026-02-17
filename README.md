@@ -9,14 +9,14 @@ The project simulates a real-world food delivery UI similar to Swiggy/Zomato and
 
 ## 🚀 Features
 
- 🏠 Home page with featured restaurants
- 🍕 Explore by category 
- 🧭 Dynamic routing using restaurant ID
- 📄 Restaurant menu page with dishes listing
- ⭐ Ratings and delivery time display
- 🔄 Data fetched from local API (JSON)
- 📱 Responsive modern UI
- ⚡ Smooth animations using Framer Motion
+ 🏠 Home page with featured restaurants 
+ 🍕 Explore by category  
+ 🧭 Dynamic routing using restaurant ID 
+ 📄 Restaurant menu page with dishes listing 
+ ⭐ Ratings and delivery time display 
+ 🔄 Data fetched from local API (JSON) 
+ 📱 Responsive modern UI 
+ ⚡ Smooth animations using Framer Motion 
 
 ---
 
